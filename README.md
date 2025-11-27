@@ -80,7 +80,7 @@ El sistema desarrollado permite gestionar ligas de fútbol, sus equipos, jugador
 
 ### 5.ENLACE A FIGMA DE LA INTERFAZ
 
-Enlace → figma
+Enlace → [figma](https://www.figma.com/design/5UCcL4agKSIDhHssWS46ca/TFG?node-id=4-51&p=f&t=6uCxWcx8UDOyAsl8-0)
 
 ### 6.CONCLUSIÓN
 
