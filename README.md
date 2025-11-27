@@ -5,16 +5,15 @@ Y el título del proyecto es → Diseño e implementación de una API REST para 
 Mi nombre es José Antonio Faura López.
 
 
-Introducción (Descripción del proyecto, Justificación, Objetivos,
-Motivación...)
-Funcionalidades del proyecto y tecnologías utilizadas
-Guía de instalación
-Guía de uso
-Enlace a figma de la interfaz
-Conclusión
-Contribuciones,agradecimientos,referencias
-Licencias
-Contacto
+1. Introducción (Descripción del proyecto, Justificación, Objetivos,Motivación...)
+2. Funcionalidades del proyecto y tecnologías utilizadas
+3. Guía de instalación
+4. Guía de uso
+5. Enlace a figma de la interfaz
+6. Conclusión
+7. Contribuciones,agradecimientos,referencias
+8. Licencias
+9. Contacto
 
 
 
